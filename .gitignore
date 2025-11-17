@@ -1,5 +1,4 @@
-*
+/World_Language_Appathon_2025_TEMPLATE/*
 
-!World_Language_Appathon_2025_TEMPLATE/Assets/
-
-!World_Language_Appathon_2025_TEMPLATE/Assets/**
+/World_Language_Appathon_2025_TEMPLATE/*/
+!/World_Language_Appathon_2025_TEMPLATE/Assets/
